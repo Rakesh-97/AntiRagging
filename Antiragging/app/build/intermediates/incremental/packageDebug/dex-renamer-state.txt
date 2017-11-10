@@ -1,0 +1,7 @@
+#Sat Nov 11 02:30:15 IST 2017
+base.0=C\:\\Users\\Rakesh\\Documents\\Antiragging\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3cfde3a9d3675f3bbcc69357c6b0699a3bf64d67
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Rakesh\\Documents\\Antiragging\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9113fb890fbf022b90875fdfede35186a9ec9f50\\classes.dex
+base.1=C\:\\Users\\Rakesh\\Documents\\Antiragging\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9113fb890fbf022b90875fdfede35186a9ec9f50
+file.0=C\:\\Users\\Rakesh\\Documents\\Antiragging\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3cfde3a9d3675f3bbcc69357c6b0699a3bf64d67\\classes.dex

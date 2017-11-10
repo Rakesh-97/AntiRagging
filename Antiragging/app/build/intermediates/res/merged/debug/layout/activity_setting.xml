@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/settings_back">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Information about Emergency Contact Number and Emergency Message"
+        android:textSize="20dp"
+        android:layout_marginTop="30dp"
+        android:gravity="center"/>
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+
+        android:hint="Emergency Number"
+        android:id="@+id/contactid"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="20dp"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:text="Contact"
+        android:background="#ced8ef"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="250dp"/>
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:hint="Emergency Message"
+        android:textColor="#ced8ef"
+        android:id="@+id/messageid"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="20dp"/>
+
+    <Button
+        android:id="@+id/button3"
+        android:text="Set SMS"
+        android:background="#ced8ef"
+        android:onClick="Clickonmessagebtn()"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="250dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textColor="#4a78db"
+        android:text="Contact Number"
+        android:id="@+id/textview1"
+        android:layout_marginTop="270dp"
+        android:layout_marginLeft="30dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textColor="#7d94c6"
+        android:text=""
+        android:id="@+id/textview"
+        android:layout_marginTop="320dp"
+        android:layout_marginLeft="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#4a78db"
+        android:text="Message"
+        android:id="@+id/textview2"
+        android:layout_marginTop="380dp"
+        android:layout_marginLeft="30dp" />
+
+</RelativeLayout>
